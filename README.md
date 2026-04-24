@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Neeshu 👋
 
-<!--
-**neeshu05/neeshu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | LMS Platform Lead  
+💻 Tech: Python, Django, Node.js, Docker  
+📍 India  
 
-Here are some ideas to get you started:
+## 🔥 What I'm Building
+- LMS Platform (handling real-time classes, video streaming)
+- Authentication systems (JWT, SSO concepts)
+- Scalable backend architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Backend: Django, Node.js
+- System Design: Microservices, Sharding, Caching
+- DevOps: Docker, Nginx
+
+## 📌 Featured Projects
+- LMS Platform (Explain in 2 lines)
+- Recommender System
+- Sorting Visualizer
+
+## 📈 GitHub Stats
+(Add GitHub stats badges)
+
+## 📫 Connect with me
+- LinkedIn
+- LeetCode
