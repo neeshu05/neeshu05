@@ -23,5 +23,5 @@
 (Add GitHub stats badges)
 
 ## 📫 Connect with me
-- LinkedIn
-- LeetCode
+- LinkedIn (neeshu-maini)
+- LeetCode (neeshumaini55)
