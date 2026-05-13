@@ -92,6 +92,7 @@ I'm currently open to **SDE-2 roles** — remote, hybrid, or on-site.
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeshu05&theme=github-compact&hide_border=true&bg_color=0d1117)
 
 ---
 
