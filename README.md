@@ -4,7 +4,7 @@
 </picture>
 
 <!-- Header -->
-<div align="center">
+<div align="center" style="background-color: #000000; color: white; padding: 20px; border-radius: 8px;>
 
 ```
 $ whoami → neeshu_maini
