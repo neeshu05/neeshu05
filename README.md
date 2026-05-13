@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=%24+whoami+%E2%86%92+neeshu_maini;%24+status+%E2%86%92+open+to+work;%24+location+%E2%86%92+kanpur%2C+india" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=435&lines=%24+whoami+%E2%86%92+neeshu_maini;%24+status+%E2%86%92+open+to+work;%24+location+%E2%86%92+kanpur%2C+india" alt="Typing SVG" />
+</picture>
+
 <!-- Header -->
 <div align="center">
 
