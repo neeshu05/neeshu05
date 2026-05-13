@@ -92,8 +92,6 @@ I'm currently open to **SDE-2 roles** — remote, hybrid, or on-site.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeshu05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeshu05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ---
 
